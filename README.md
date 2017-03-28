@@ -8,8 +8,8 @@ Garage door opener with video feed: hybrid Ember-Cordova app with video feed and
   with the garage door openers themselves through relays (one relay per opener).
 
 **Goals and Objectives**
-  *Develop a Raspberry Pi webserver.
-  *
+  * Develop a Raspberry Pi webserver.
+  * 
   
 **Merit of the Project**
 
@@ -24,12 +24,12 @@ Garage door opener with video feed: hybrid Ember-Cordova app with video feed and
 **Application requirements - What does your app/product do?**
 
 **User stories**
-  *As a home owner, I can remotely view the status of my garage doors and control them.
-  *
+  * As a home owner, I can remotely view the status of my garage doors and control them.
+  * 
 
 **Misuser stories**
-  *As a malicious hacker, I want to gain unapproved access to the garage door opener via Bluetooth/BLE pairing.
-  *
+  * As a malicious hacker, I want to gain unapproved access to the garage door opener via Bluetooth/BLE pairing.
+  * 
 
 **Discussion - Talk to Dr. Hale about your idea**
 
