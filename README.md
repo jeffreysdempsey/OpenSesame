@@ -24,6 +24,7 @@ Have you ever needed to easily open your garage door and found yourself unable t
 
 
 **Project-Oriented Risk List**
+
 |Risk name (value)  | Impact     | Likelihood | Description | Mitigation |
 |-------------------|------------|------------|-------------|------------|
 |Range limit (48) | 8 | 6 | Bluetooth class 1 range is up to 100m. Garage door and other barriers will limit range. Delays development. | Test range extensively before and during development. Relocate device if necessary. Last resort: USB dongle with hi-gain antenna?|
