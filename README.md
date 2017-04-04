@@ -13,18 +13,18 @@ Develop an Apache Cordova server to host webview for hybrid app on the Raspberry
 
 
 **Project timeline**
-[Week View](http://)
-[Day View](http://)
+[Week View](OpenSesame/Screen Shot 2017-04-03 at 10.35.03 PM.png)
+[Day View](OpenSesame/Screen Shot 2017-04-03 at 10.35.30 PM.png)
 
-**Define the major tasks and expected time to completion**
-**Create and submit a Gantt chart**
 
 **Project-Oriented Risk List**
+
 |Risk name (value)  | Impact     | Likelihood | Description | Mitigation |
 |-------------------|------------|------------|-------------|------------|
 |Range limit (40) | 8 | 6 | Bluetooth class 1 range is up to 100m. Garage door and other barriers will limit range. Delays development. | Test range extensively before and during development. Relocate device if necessary. Last resort: USB dongle with hi-gain antenna?|
 |Discoverability (40) | 10 | 3 | Leaving device in discoverable mode leaves might allow unintended parties to open door. | Dig into Bluez (Linux Bluetooth stack) and whitelist devices. Prevent New devices from connecting. If this doesn't work, the project fails security assurance.|
 |Power Interrupt (40) | 7 | 4 | Power interrupt . | Write boot-script for Pi to make sure all settings are correct. Test.|
+
 
 **User stories**
   * As someone who has a garage, I want to open and close my garage door(s) using my phone, which I always have on me, instead of a dedicated remote.
