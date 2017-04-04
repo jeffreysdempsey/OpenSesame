@@ -13,8 +13,8 @@ Develop an Apache Cordova server to host webview for hybrid app on the Raspberry
 
 
 **Project timeline**
-![Week View](OpenSesame/Screen Shot 2017-04-03 at 10.35.03 PM.png "Gantt chart week view")
-![Day View](OpenSesame/Screen Shot 2017-04-03 at 10.35.30 PM.png "Gantt chart day view")
+![Week View](OpenSesame/https://github.com/jeffreysdempsey/OpenSesame/commit/4142619478447a57d09b6def96f41a14c8db78ae#diff-57021e0c754fef1c38be96997c78a15b "Gantt chart week view")
+![Day View](https://github.com/jeffreysdempsey/OpenSesame/commit/4142619478447a57d09b6def96f41a14c8db78ae#diff-e6a43a8738f2ba343e731c63694f6778 "Gantt chart day view")
 
 
 **Project-Oriented Risk List**
