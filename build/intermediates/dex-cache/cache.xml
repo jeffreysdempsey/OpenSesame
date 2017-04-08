@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/31dd38f00eabca2f5755359b0f64d61ef332b6cb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58011d152b070b5247f760a6b266b46a5f45cd06/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_48c15988b1b1cf626c7b84f3a52a5865c2061837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d46c52190778dd1fc15de485b5e4fab4c8fa5a03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/32193e598f0cbddaf7048c6d0dcd280f4407daf2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d76cc054cd7ddd4459213e6742afeb5c79c281ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/6ad2cbab7fd28b66f7a2fe6f54122bbffc09702f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_55b31d51d8fa417979e21e0782db88bba996a6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/0cec4972ace2266562102632cb999a6fafd9091a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16020c0541cef6e28dc07e0e4538b91dd2e535c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1151fdfab31e3d98c87c499c17695d860dbe2d3">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_151f923770a92065ff9d8906eb18a7f2c4b2a1b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/afdec5546d91b4cdb2263ce18bb13e76ea0b921f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_adb2e5536959c7e5bb0938e74497fded772c877f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/dd0c9df11048b0340faed86d7461fa54f334559d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73f55c1426eb8954f9e4aaf41055a65da92f2bcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/e393d3b7ba3fd936a4888b4cb06b51b5ef83ae46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8e123abc57559f9825383c4b15580c3f61e6eb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/acd373e34cb13a65b203f4c0d8c3107c1013113d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ec56499cedf9add4768e032b6fcf27432f0bdde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeffdempsey/.android/build-cache/7939d089fd812d0658d2816ca380db7153d3687c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jeffdempsey/AndroidStudioProjects/OpenSesame/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dfdef91cdef921c280eb461220fb2262f8351b37/classes.dex" />
+    </item>
+
+</items>
