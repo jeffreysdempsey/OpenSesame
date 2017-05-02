@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">OpenSesame</string>
-    <string name="doorUp">Door Up</string>
-    <string name="doorDown">Door Down</string>
+    <string name="doorBig">Main Door</string>
+    <string name="doorLittle">Little Door</string>
 </resources>
