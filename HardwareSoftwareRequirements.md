@@ -12,6 +12,7 @@
 
 ### Software Requrements
 * Android version 5.0 for the phone
+* Raspbian Jessie for Raspberry Pi (NOOBS)
 * [OpenSesame.py or similar BT server script](https://github.com/jeffreysdempsey/OpenSesame/blob/master/opensesame.py)
 * Android Studio 2.3 or later with Android SDK 21 or higher
 * Java 8 Runtime and JDK
