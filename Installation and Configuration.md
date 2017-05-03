@@ -1,16 +1,17 @@
 
 # Installation
-## Raspberry Pi Setup
+## Raspberry Pi Setup and Configuration
 1. First things first, if you haven't yet installed NOOBS and done initial setup, [follow this tutorial.](https://www.raspberrypi.org/help/noobs-setup/2/)
 1. After you have Raspbian up and running and up to date, you'll need to install a few packages and dependencies.
-1. Install BlueZ 5.44 (as of 5/2/17) using `sudo apt-get install bluez`: http://www.bluez.org/download/
-1. Install PyBluez using `pip install pybluez`: http://karulis.github.io/pybluez/
-1. 
-
+1. Make sure your Python 2 or 3 installation is up to date.
+1. Install BlueZ using `sudo apt-get install bluez`. See the website for more info: http://www.bluez.org/download/
+1. Install PyBluez using `pip install pybluez`. See the website for more info: http://karulis.github.io/pybluez/
+1. Download [opensesame.py](https://github.com/jeffreysdempsey/OpenSesame/blob/master/opensesame.py) or code your own version. At this point, the software setup should be good to go on the Raspberry Pi.
 
 ## Android App
 ### Install from APK
 *Know that installing APKs from unknown sources poses a security risk. Know what you're doing and why you're doing it. I bear no responsibility if you manage to brick or otherwise damage your phone installing this or something else on your phone.*
+*Further, this .apk file will NOT work as there is a MAC address hardcoded. It is only intended to work with a specific bluetooth device. This .apk file is only provided so you can see the GUI*
 
 1. To install, you'll have to side load the .apk. To enable installing apps not from the Play Store, go to Settings>Security scroll down and toggle the switch for the option "Unknown Sources". Alternatively, you can just search the settings for "unknwon sources."
 1. Download the [OpenSesame.apk file](https://github.com/jeffreysdempsey/OpenSesame/blob/master/OpenSesame.apk) on your Android device.
@@ -33,8 +34,7 @@
 1. Wire the relay to your garage door wall switch. This is low voltage and easier than wiring directly to the motor unit. Unless you are mounting the Pi near the motor, then do that. Either way, loosen the two screws or pop the two wire catches and insert your wires. I used some [22awg wire I purchased for the project.](https://www.amazon.com/gp/product/B00NB3SQJU/ref=oh_aui_detailpage_o03_s01?ie=UTF8&psc=1)
 1. Connect the other ends of the wire to the relay. Make sure you hook them up to the normally open circuit so that toggling the relay with close the switch and deliver power to the circuit.
 
-# Configuration
-1. 
-
 # Getting Started
-1. Run the OpenSesame.py server script on the Raspberry Pi
+1. Run the OpenSesame.py server script on the Raspberry Pi.
+1. While OpenSesame.py is listening for a Bluetooth connection, open your OpenSesame app and wait for a few seconds, then press the "main door" button.
+1. Smile smugly as your garage door goes up. ;)
